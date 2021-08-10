@@ -212,11 +212,28 @@
                                         /* SECTION - 3 */
   
   .section-3{
-    height: 50vh;
-    background-color: black;
+    height: 70vh;
+    background-color: rgb(255, 255, 255);
     width: 100vw;
   }
 
+  .card1-image{
+    height: 100%;
+    width: 100%;
+  }
+
+  .card2-image{
+    height: 100%;
+    width: 100%;
+  }
+  .card3-image{
+    height: 100%;
+    width: 100%;
+  }
+  .card4-image{
+    height: 100%;
+    width: 100%;
+  }
 
 
 
