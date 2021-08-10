@@ -212,7 +212,7 @@
                                         /* SECTION - 3 */
   
   .section-3{
-    height: 70vh;
+    /* height: 80vh; */
     background-color: rgb(255, 255, 255);
     width: 100vw;
   }
@@ -233,6 +233,11 @@
   .card4-image{
     height: 100%;
     width: 100%;
+  }
+
+  .mens-row{
+    align-items: stretch;
+    margin-top: -50px;
   }
 
 
