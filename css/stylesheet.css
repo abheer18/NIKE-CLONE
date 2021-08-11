@@ -3,10 +3,10 @@
 .header {
   height: 20vh;
   width: 100vw;
-  background-color: rgb(0, 0, 0)
+  background-color: rgb(0, 0, 0);
 }
 
-.top-header{
+.top-header {
   height: 20vh;
   width: 100vw;
 }
@@ -21,7 +21,6 @@
   width: 280px;
   padding-top: 0;
   margin-top: 0;
-
 }
 
 /* navbar */
@@ -32,7 +31,7 @@
   padding: 0;
   margin: 0;
   width: 100vw;
- box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.7);
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.7);
 }
 
 .nav-list {
@@ -69,7 +68,6 @@
   flex-wrap: wrap;
   align-content: stretch;
   padding: 0 0 0 0;
-
 }
 .top-row {
   padding-top: 50px;
@@ -213,56 +211,52 @@
   margin-top: 15px;
 }
 
-                                        /* SECTION - 3 */
-  
-  .section-3{
-    /* height: 80vh; */
-    background-color: rgb(255, 255, 255);
-    width: 100vw;
-  }
+/* SECTION - 3 */
 
-  .card1-image{
-    height: 100%;
-    width: 100%;
-  }
+.section-3 {
+  /* height: 80vh; */
+  background-color: rgb(255, 255, 255);
+  width: 100vw;
+}
 
-  .card2-image{
-    height: 100%;
-    width: 100%;
-  }
-  .card3-image{
-    height: 100%;
-    width: 100%;
-  }
-  .card4-image{
-    height: 100%;
-    width: 100%;
-  }
-  .card5-image{
-    height: 100%;
-    width: 100%;
-  }
-  .card7-image{
-    height: 100%;
-    width: 100%;
-  }
-  .card8-image{
-    height: 100%;
-    width: 100%;
-  }
-  .card9-image{
-    height: 100%;
-    width: 100%;
-  }
-  
+.card1-image {
+  height: 100%;
+  width: 100%;
+}
 
+.card2-image {
+  height: 100%;
+  width: 100%;
+}
+.card3-image {
+  height: 100%;
+  width: 100%;
+}
+.card4-image {
+  height: 100%;
+  width: 100%;
+}
+.card5-image {
+  height: 100%;
+  width: 100%;
+}
+.card7-image {
+  height: 100%;
+  width: 100%;
+}
+.card8-image {
+  height: 100%;
+  width: 100%;
+}
+.card9-image {
+  height: 100%;
+  width: 100%;
+}
 
-  .mens-row{
-    align-items: stretch;
-    margin-top: -50px;
-  }
-
-
+.mens-row {
+  align-items: stretch;
+  margin-top: -50px;
+}
 
 /* images */
 
