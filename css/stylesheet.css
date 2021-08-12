@@ -318,6 +318,15 @@
 .social {
   margin-top: 50px;
 }
+#facebook{
+color: azure;
+border-radius: 50px;
+}
+
+.facebook-icon::hover{
+  transform: translate(0.5%);
+  box-shadow: 0 0 5px 0 rgba(182, 182, 182, 0.7);
+}
 
 footer {
   background-color: black;
