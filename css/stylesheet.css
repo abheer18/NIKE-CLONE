@@ -322,6 +322,10 @@ footer {
   body{
     overflow-x: hidden;
   }
+
+  .navbar{
+    height: auto;
+  }
   
   #bg-small{
     margin: auto;
@@ -353,5 +357,70 @@ footer {
     display: none;
   }
 
+ #menu-img{
+  height: 28px;
+  width: 28px;
+
+ }
+
+ .paragraph {
+  font-family:Cambria;
+  font-size: 18px;
+  text-align: center;
+  color: rgb(246, 246, 246);
+ padding: 35px;
+ display: flex;
+ justify-content: space-around;
+ text-align: center;
+ flex-direction: column;
+ flex-wrap: wrap;
+}
+
+}
+
+@media screen and (max-width: 1300px) {
+  
+  body{
+    overflow-x: hidden;
+  }
+
+  .navbar{
+    height: auto;
+  }
+  
+  #bg-small{
+    margin: auto;
+    display: block;
+    background-size: contain;
+    width: 100%;
+    height: auto;
+  }
+
+  .container .col-md-3 {
+    display: flex; /* 15px for the margin */
+      max-width:auto;
+      /* margin: 5px; */
+      padding: 12px; /* Half of the intended gap */
+      align-items: center;
+  
+   justify-content: center;
+  }
+
+  .card{
+    
+    width: 8rem;
+    height: 15rem;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .shoe-row-top{
+    display: none;
+  }
+
+ #menu-img{
+  height: 28px;
+  width: 28px;
+ }
 
 }
