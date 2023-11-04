@@ -381,6 +381,10 @@ footer {
  flex-wrap: wrap;
 }
 
+#footer-heading{
+  font-size: 20px;
+}
+
 }
 
 @media screen and (max-width: 1300px) {
@@ -427,5 +431,9 @@ footer {
   height: 28px;
   width: 28px;
  }
+
+ #footer-heading{
+  font-size: 30px;
+}
 
 }
